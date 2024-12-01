@@ -1,0 +1,758 @@
+<WRES><PPOS><MRES>
+<WRES><PPOS>--><MRES>
+<WRES><PPOS> to <MRES>
+<WRES>-<PPOS> to <MRES>
+<WRES> <PPOS> to <MRES>
+<WRES>-<PPOS>--><MRES>
+<WRES><PPOS>----<MRES>
+<WRES>-<PPOS>-<MRES>
+<WRES><PPOS>-<MRES>
+<WRES> for <MRES> at position <PPOS>
+<WRES><PPOS> by <MRES>
+<WRES><PPOS> --> <MRES>
+<PPOS> <WRES>--><MRES>
+<WRES>-<PPOS> by <MRES>
+<WRES><PPOS> with <MRES>
+<WRES> <PPOS> <MRES>
+<WRES>(<PPOS>)<MRES>
+<WRES>-<PPOS>----<MRES>
+<PPOS> <WRES>----<MRES>
+<WRES>-<PPOS> with <MRES>
+<PPOS><WRES>--><MRES>
+<WRES> to <MRES> at position <PPOS>
+<WRES> <PPOS> with <MRES>
+<WRES> <PPOS> by <MRES>
+<MRES> for <WRES>-<PPOS>
+<WRES>-<PPOS> --> <MRES>
+<MRES> for <WRES><PPOS>
+<WRES> <PPOS>--><MRES>
+<WRES><PPOS> <MRES>
+<WRES>(<PPOS>)--><MRES>
+<WRES>-<PPOS><MRES>
+<MRES> for <WRES> <PPOS>
+<PPOS> <WRES> replaced by <MRES>
+<WRES>(<PPOS>) to <MRES>
+<PPOS> from <WRES> to <MRES>
+<PPOS> (<WRES> to <MRES>
+<WRES><PPOS>-to-<MRES>
+<MRES> to <WRES> substitution at position <PPOS>
+<PPOS> <WRES> to <MRES>
+<WRES> <PPOS>----<MRES>
+<WRES> by <MRES> at position <PPOS>
+<WRES><PPOS>]-<MRES>
+<WRES> for <MRES> at residue <PPOS>
+<PPOS> (<WRES>--><MRES>
+<PPOS>(b<POS>)<WRES>--><MRES>
+<PPOS>(h<POS>)<WRES>--><MRES>
+<PPOS>(g<POS>)<WRES>--><MRES>
+<WRES>-<PPOS> was replaced by <MRES>
+<WRES>(<PPOS>) --> <MRES>
+<PPOS> <WRES> --> <MRES>
+<WRES> to <MRES> at codon <PPOS>
+<WRES><PPOS>]<MRES>
+<MRES> for <WRES> at codon <PPOS>
+<PPOS>(a<POS>)<WRES>--><MRES>
+<WRES>-to-<MRES> substitution at position <PPOS>
+<WRES> at position <PPOS> to <MRES>
+<PPOS><WRES>----<MRES>
+<PPOS>(e<POS>)<WRES>--><MRES>
+<WRES>-<PPOS>-to-<MRES>
+<WRES> at position <PPOS> by <MRES>
+<MRES> for <WRES> substitution at position <PPOS>
+<MRES> for <WRES> at amino acid <PPOS>
+<PPOS> (<WRES>----<MRES>
+<WRES> to <MRES> substitution at residue <PPOS>
+<WRES><PPOS> with <RES> or <MRES>
+<WRES><PPOS> was replaced by <MRES>
+<WRES><PPOS> and <RES><POS> with <MRES>
+<WRES><PPOS> and <RES><POS> to <MRES>
+<WRES>-<PPOS> with <RES> or <MRES>
+<PPOS>(b<POS>)<WRES>----<MRES>
+<WRES>-<PPOS> with a <MRES>
+<WRES>-<PPOS> to <RES> or <MRES>
+<WRES>(<PPOS>) with <MRES>
+<PPOS><WRES> --> <MRES>
+<PPOS>(e<POS>)<WRES>----<MRES>
+<WRES><PPOS> is replaced by <MRES>
+<WRES> to <MRES> substitution at codon <PPOS>
+<WRES> to <MRES> mutation at position <PPOS>
+<WRES> to <MRES> at residue <PPOS>
+<PPOS>(gh<POS>)<WRES>--><MRES>
+<WRES> with <MRES> at position <PPOS>
+<WRES> <PPOS> --> <MRES>
+<PPOS><WRES> to <MRES>
+<PPOS>(h<POS>)<WRES>----<MRES>
+<PPOS> (b<POS>) <WRES> replaced by <MRES>
+<WRES><PPOS> into <MRES>
+<WRES>-for-<MRES> substitution at position <PPOS>
+<WRES>-<PPOS> and <RES>-<POS> to <MRES>
+<WRES> to <MRES> substitution at amino acid <PPOS>
+<WRES> at position <PPOS> with <MRES>
+<WRES> <PPOS> for <MRES>
+<PPOS>(f<POS>)<WRES>--><MRES>
+<WRES><PPOS> to <RES> or <MRES>
+<WRES> <PPOS> to a <MRES>
+<WRES><PPOS> was mutated to <MRES>
+<WRES><PPOS> by a <MRES>
+<WRES>-<PPOS> by <RES> or <MRES>
+<WRES>--><MRES> at position <PPOS>
+<WRES>(<PPOS>) by <MRES>
+<MRES> instead of <WRES> at position <PPOS>
+<WRES> <PPOS> is replaced by <MRES>
+<PPOS> <WRES>--<MRES>
+<WRES><PPOS> was replaced with <MRES>
+<WRES><PPOS> or <RES><POS> with <MRES>
+<WRES><PPOS> by <RES> or <MRES>
+<WRES>-to-<MRES> substitution at codon <PPOS>
+<WRES>-<PPOS> for <MRES>
+<WRES> <PPOS><MRES>
+<WRES> <PPOS>-to-<MRES>
+<WRES><PPOS>--> <MRES>
+<WRES><PPOS>)-<MRES>
+<WRES>-<PPOS> with either <MRES> or <RES>
+<WRES>-<PPOS> with either <RES> or <MRES>
+<WRES> in place of <MRES><PPOS>
+<WRES> for <MRES>(<PPOS>
+<WRES> for <MRES> at amino acid position <PPOS>
+<WRES> <PPOS> with a <MRES>
+<WRES> <PPOS> by a <MRES>
+<PPOS> (h<POS>) <WRES> replaced by <MRES>
+<WRES><PPOS> for <MRES>
+<WRES>-x<PPOS>-<MRES>
+<WRES>-to-<MRES> substitution at amino acid <PPOS>
+<WRES>-to-<MRES> change at position <PPOS>
+<WRES>-<PPOS> was replaced with <MRES>
+<WRES>-<PPOS> to a <MRES>
+<WRES>-<PPOS> or <RES>-<POS> with <MRES>
+<WRES>--><MRES> substitution at position <PPOS>
+<WRES>----<MRES> substitution at position <PPOS>
+<WRES>----<MRES> at position <PPOS>
+<WRES>)<PPOS><MRES>
+<WRES>)<PPOS>-<MRES>
+<WRES> with <MRES> at residue <PPOS>
+<WRES> to <MRES> substitution at amino acid position <PPOS>
+<MRES> substitution for <WRES><PPOS>
+<WRES> <PPOS> was replaced by <MRES>
+<WRES> <PPOS> was mutated to <MRES>
+<WRES> <PPOS> was changed to <MRES>
+<WRES> <PPOS> into <MRES>
+<WRES> <PPOS> by <RES> or <MRES>
+<PPOS>(g<POS>)<WRES>----<MRES>
+<PPOS> (e<POS>) <WRES> replaced by <MRES>
+<PPOS> (<WRES> --> <MRES>
+<WRES><PPOS> with a <MRES>
+<WRES><PPOS> or <RES><POS> to <MRES>
+<WRES><PPOS> > <MRES>
+<WRES>-<PPOS> has been replaced by <MRES>
+<WRES>-<PPOS> <MRES>
+<WRES>(<PPOS>)-<MRES>
+<WRES>(<PPOS>)----<MRES>
+<WRES> to <MRES> at amino acid position <PPOS>
+<MRES> for a <WRES> at position <PPOS>
+<MRES> for <WRES> at position <PPOS>
+<WRES> by <MRES> at codon <PPOS>
+<WRES> <PPOS> was replaced with <MRES>
+<PPOS>(ce<POS>)<WRES>--><MRES>
+<PPOS>(a<POS>)<WRES>----<MRES>
+<PPOS> <WRES> by <MRES>
+<PPOS> (h<POS>) <WRES>----<MRES>
+<PPOS> (g<POS>) <WRES> replaced by <MRES>
+<WRES><PPOS>, with <MRES>
+<WRES><PPOS> was replaced by <RES> or <MRES>
+<WRES><PPOS> replaced by <MRES>
+<WRES><PPOS> and <RES><POS> were replaced by <MRES>
+<WRES><PPOS> were replaced by <MRES>
+<WRES><PPOS> and <RES><POS> by <MRES>
+<WRES>-<PPOS>/<MRES>
+<WRES>-<PPOS> was mutated to <MRES>
+<WRES>-<PPOS> to <RES> and <MRES>
+<WRES>-<PPOS> is replaced by <MRES>
+<WRES>-<PPOS> into <MRES>
+<WRES>-<PPOS> by a <MRES>
+<WRES>-<PPOS> and <RES>-<POS> with <MRES>
+<WRES>--><MRES><PPOS>
+<WRES>----<MRES><PPOS>
+<WRES>----<MRES> <PPOS>
+<WRES>(<PPOS>) and <RES>(<POS>) to <MRES>
+<WRES> to <MRES> change at position <PPOS>
+<WRES> to <MRES> change at amino acid <PPOS>
+<WRES> to <MRES> at the <PPOS>
+<WRES> to <MRES> at amino acid <PPOS>
+<WRES> to <MRES> at <PPOS>
+<MRES> substitution for <WRES> <PPOS>
+<MRES> in place of <WRES> at position <PPOS>
+<MRES> for <WRES> in position <PPOS>
+<MRES> for <WRES> at amino acid residue <PPOS>
+<WRES> by <MRES> in position <PPOS>
+<WRES> <PPOS>-<MRES>
+<PPOS><WRES> replaced by <MRES>
+<PPOS>(gh<POS>)<WRES>----<MRES>
+<PPOS>(e<POS>)<WRES> --> <MRES>
+<PPOS>(cd<POS>)<WRES>----<MRES>
+<PPOS>(c<POS>)<WRES>--><MRES>
+<PPOS>(c<POS>)<WRES>----<MRES>
+<PPOS>(b<POS>) <WRES>----<MRES>
+<PPOS> <WRES> with <MRES>
+<PPOS> (f<POS>) <WRES>--><MRES>
+<PPOS> (e<POS>) <WRES>----<MRES>
+<WRES><PPOS>/<MRES>
+<WRES><PPOS>, to <MRES>
+<WRES><PPOS> with an <MRES>
+<WRES><PPOS> was substituted with <MRES>
+<WRES><PPOS> to a <MRES>
+<WRES><PPOS> by an <MRES>
+<WRES>-to-<MRES> substitution at residue <PPOS>
+<WRES>-to-<MRES> mutation at position <PPOS>
+<WRES>-<PPOS> with an <MRES>
+<WRES>-<PPOS> to an <MRES>
+<WRES>-<PPOS> by an <MRES>
+<WRES>----<MRES> substitution at residue <PPOS>
+<WRES> with <MRES> at codon <PPOS>
+<WRES> to a <MRES> at position <PPOS>
+<WRES> to <MRES> mutation at residue <PPOS>
+<WRES> to <MRES> change at codon <PPOS>
+<MRES> substitution of <WRES><PPOS>
+<MRES> substitution of <WRES>-<PPOS>
+<MRES> substitution for <WRES>-alpha<PPOS>-<POS>
+<MRES> substitution for <WRES>-alpha<POS>-<PPOS>
+<MRES> substitution for <WRES>-<PPOS>
+<MRES> substitution at <WRES>-<PPOS>
+<MRES> substituted for <WRES>-<PPOS>
+<WRES> m<PPOS> to <MRES>
+<WRES> at position <PPOS> with a <MRES>
+<MRES> at position <PPOS> instead of <WRES>
+<PPOS>: <WRES>----<MRES>
+<PPOS>(h<POS>) <WRES>--><MRES>
+<PPOS>(fg<POS>)<WRES>--><MRES>
+<PPOS> (h<POS>) <WRES>--><MRES>
+<PPOS> (g<POS>) <WRES>----<MRES>
+<PPOS> (cd<POS>) <WRES> replaced by <MRES>
+<PPOS> (a<POS>) <WRES> replaced by <MRES>
+<WRES><PPOS>--><RES> or <MRES>
+<WRES><PPOS>- > <MRES>
+<WRES><PPOS>)<MRES>
+<WRES><PPOS> with either <MRES> or <RES>
+<WRES><PPOS> with either <RES> or <MRES>
+<WRES><PPOS> was replaced by <RES>, <MRES>
+<WRES><PPOS> was replaced by <RES>, <RES>, or <MRES>
+<WRES><PPOS> to <RES>, <MRES>
+<WRES><PPOS> to <RES>, <RES>, <MRES>
+<WRES><PPOS> to <RES>, <RES>, <RES>, and <MRES>
+<WRES><PPOS> has been replaced by <MRES>
+<WRES><PPOS> by <RES> and <MRES>
+<WRES>-<PPOS> with <RES>, <MRES>
+<WRES>-<PPOS> with <RES>, <RES>, or <MRES>
+<WRES>-<PPOS> was changed to <MRES>
+<WRES>-<PPOS> to be replaced by <MRES>
+<WRES>-<PPOS> to <RES>, <MRES>
+<WRES>-<PPOS> to <RES>, <RES>, and <MRES>
+<WRES>-<PPOS> replaced by <MRES>
+<WRES>-<PPOS> by either <MRES>
+<WRES>-<PPOS> by either <RES> or <MRES>
+<WRES>----<MRES>-<PPOS>
+<WRES>(<PPOS>) to <RES> or <MRES>
+<MRES> was substituted for <WRES><PPOS>
+<WRES> to <MRES>-<PPOS>
+<WRES> to <MRES>) at position <PPOS>
+<WRES> to <MRES> substitution at amino acid residue <PPOS>
+<WRES> to <MRES> mutation in codon <PPOS>
+<WRES> to <MRES> mutation at codon <PPOS>
+<WRES> to <MRES> mutation at amino acid <PPOS>
+<WRES> to <MRES> in position <PPOS>
+<WRES> to <MRES> in codon <PPOS>
+<WRES> to <MRES> change at residue <PPOS>
+<WRES> to <MRES> amino acid substitution at position <PPOS>
+<MRES> substituted for <WRES> at position <PPOS>
+<WRES> residue at position <PPOS> to <MRES>
+<WRES><PPOS>) to <MRES>
+<MRES> mutant of <WRES><PPOS>
+<MRES> is substituted for <WRES><PPOS>
+<WRES> in position <PPOS> by <MRES>
+<MRES> in place of <WRES>-<PPOS>
+<MRES> in place of <WRES> <PPOS>
+<MRES> for <WRES> at position -<PPOS>
+<MRES> for <WRES> at beta <PPOS>
+<WRES> by <MRES> at residue <PPOS>
+<WRES> at residue <PPOS> to <MRES>
+<WRES> at position <PPOS> with an <MRES>
+<WRES> at position <PPOS> was replaced by <MRES>
+<WRES> <PPOS> with <RES> or <MRES>
+<WRES> <PPOS> to <RES> and <MRES>
+<WRES> <PPOS> replaced by <MRES>
+<WRES> <PPOS> replaced by <RES> or <MRES>
+<WRES> <PPOS> or <RES> <POS> with <MRES>
+<WRES> <PPOS> or <RES> <POS> to <MRES>
+<WRES> (r) at position <PPOS> with a <MRES>
+<PPOS>, replacing <WRES> with <MRES>
+<PPOS>, <WRES>--><MRES>
+<PPOS>(i) <WRES> to <MRES>
+<PPOS>(hc<POS>)<WRES>--><MRES>
+<PPOS>(h<POS>)<WRES> --> <MRES>
+<PPOS>(ce<POS>)<WRES>----<MRES>
+<PPOS>(a<POS>)<WRES> --> <MRES>
+<PPOS> (gh<POS>) <WRES>----<MRES>
+<PPOS> (g<POS>) <WRES>--><MRES>
+<PPOS> (ef<POS>) <WRES>----<MRES>
+<PPOS> (b<POS>)<WRES>----<MRES>
+<PPOS> (b<POS>) <WRES>--><MRES>
+<PPOS> (b<POS>) <WRES>----<MRES>
+<WRES><PPOS>><MRES>
+<WRES><PPOS>(beta)--><MRES>
+<WRES><PPOS>(<MRES>
+<MRES><PPOS> was substituted for <WRES>
+<WRES><PPOS> was substituted by <MRES>
+<WRES><PPOS> was substituted by <RES> or <MRES>
+<WRES><PPOS> was replaced by a <MRES>
+<WRES><PPOS> was converted to <MRES>
+<WRES><PPOS> to either <MRES> or <RES>
+<WRES><PPOS> to either <RES> or <MRES>
+<WRES><PPOS> to an <MRES>
+<WRES><PPOS> to <RES>, <RES>, and <MRES>
+<WRES><PPOS> to <RES>, <RES> or <MRES>
+<WRES><PPOS> to <RES> and <MRES>
+<WRES><PPOS> residue with <MRES>
+<WRES><PPOS> residue by <MRES>
+<WRES><PPOS> mutated to <MRES>
+<WRES><PPOS> is replaced with <MRES>
+<WRES><PPOS> is changed to <MRES>
+<WRES><PPOS> into a <MRES>
+<WRES><PPOS> changed to <MRES>
+<WRES><PPOS> by either <MRES>
+<WRES><PPOS> by either <RES> or <MRES>
+<WRES><PPOS> --><MRES>
+<WRES><PPOS> --> <RES> or <MRES>
+<WRES><PPOS> (e<POS>)beta----<MRES>
+<WRES>-to-<MRES> replacement at position <PPOS>
+<WRES>-to-<MRES> mutation at codon <PPOS>
+<WRES>-to-<MRES> change at amino acid <PPOS>
+<WRES>-<PPOS>--><RES> or <MRES>
+<WRES>-<PPOS>, <RES>-<POS> or <RES>-<POS> by <MRES>
+<WRES>-<PPOS> or <RES>-<POS> by <MRES>
+<WRES>-<PPOS>(b<POS>)-<MRES>
+<WRES>-<PPOS> with <RES> and <MRES>
+<WRES>-<PPOS> was substituted by <MRES>
+<WRES>-<PPOS> to either <MRES>
+<WRES>-<PPOS> to either <RES> or <MRES>
+<WRES>-<PPOS> is replaced with <MRES>
+<WRES>-<PPOS> and <RES>-<POS> were replaced with <MRES>
+<WRES>-<PPOS> were replaced with <MRES>
+<WRES>-<PPOS> and <RES>-<POS> were replaced by <MRES>
+<WRES>-<PPOS> were replaced by <MRES>
+<WRES>-<PPOS> and <RES>-<POS> by <MRES>
+<WRES>-<PPOS> and <RES>-<POS> by <RES> and <MRES>
+<WRES>-<PPOS> by <RES> and <MRES>
+<WRES>--><MRES>) mutation at codon <PPOS>
+<WRES>--><MRES>) at position <PPOS>
+<WRES>--><MRES>) at codon <PPOS>
+<WRES>--><MRES>(<PPOS>
+<WRES>--><MRES> substitution in codon <PPOS>
+<WRES>--><MRES> substitution at residue <PPOS>
+<WRES>--><MRES> substitution at amino acid <PPOS>
+<WRES>--><MRES> mutation at position <PPOS>
+<WRES>--><MRES> mutation at codon <PPOS>
+<WRES>----<MRES>) at codon <PPOS>
+<WRES>----<MRES> substitution at position beta <PPOS>
+<WRES>----<MRES> substitution at codon <PPOS>
+<WRES>----<MRES> change at position <PPOS>
+<WRES>----<MRES> at codon <PPOS>
+<MRES>, <RES> or <RES> for <WRES><PPOS>
+<MRES> or <RES> for <WRES><PPOS>
+<WRES>(<PPOS>) was mutated to <MRES>
+<WRES>(<PPOS>) to <RES> and <MRES>
+<WRES>(<PPOS>) into <MRES>
+<MRES>(<PPOS>) for <WRES>
+<WRES>(<PPOS>) and <RES>(<POS>) with <MRES>
+<WRES> to a <MRES> residue at position <PPOS>
+<WRES> to <MRES>, at position <PPOS>
+<WRES> to <MRES>) at codon <PPOS>
+<WRES> to <MRES> substitution in residue <PPOS>
+<WRES> to <MRES> replacement at position <PPOS>
+<WRES> to <MRES> polymorphism at codon <PPOS>
+<WRES> to <MRES> change at amino acid position <PPOS>
+<WRES> to <MRES> at amino acid residue <PPOS>
+<WRES> to <MRES> (s<PPOS>
+<WRES> to <MRES> (r<PPOS>
+<WRES> to <MRES> (p<PPOS>
+<WRES> to <MRES> (codon <PPOS>
+<MRES> substitution of <WRES> <PPOS>
+<MRES> substitution at <WRES><PPOS>
+<MRES> substitution at <WRES> <PPOS>
+<MRES> substituted for <WRES> at residue <PPOS>
+<WRES> residue at position <PPOS> with <MRES>
+<WRES> residue at position <PPOS> was replaced by <MRES>
+<WRES> residue at position <PPOS> by <MRES>
+<WRES> residue <PPOS> by <MRES>
+<MRES> replaces <WRES>-<PPOS>
+<MRES> rather than a <WRES> at position <PPOS>
+<MRES> or <RES> for <WRES>-<PPOS>
+<MRES> or <RES> for <WRES> at position <PPOS>
+<WRES> m<PPOS>--><MRES>
+<MRES> instead of a <WRES> at position <PPOS>
+<MRES> for an <WRES> at position <PPOS>
+<MRES> for a <WRES> at residue <PPOS>
+<MRES> for a <WRES> at amino acid position <PPOS>
+<MRES> for <RES>-<POS> or <WRES>-<PPOS>
+<MRES> for <WRES>, at position <PPOS>
+<MRES> for <WRES> substitution at amino acid <PPOS>
+<MRES> for <WRES> in the <PPOS>
+<MRES> for <WRES> in codon <PPOS>
+<MRES> for <WRES> at the beta <PPOS>
+<MRES> for <WRES> at residue <PPOS>
+<MRES> for <WRES> at <PPOS>
+<WRES> by <MRES> at the position <PPOS>
+<WRES> at position <PPOS> to a <MRES>
+<WRES> at position <PPOS> to <RES> or <MRES>
+<WRES> at position <PPOS> rather than <MRES>
+<WRES> at position <PPOS> is replaced by <MRES>
+<MRES> at position <PPOS> for <WRES>
+<WRES> at position <PPOS> by a <MRES>
+<WRES> at codon <PPOS> with <MRES>
+<MRES> at <WRES>-<PPOS>
+<WRES> <PPOS> was replaced by a <MRES>
+<WRES> <PPOS> to an <MRES>
+<WRES> <PPOS> to <RES>, <MRES>
+<WRES> <PPOS> to <RES>, <RES>, or <MRES>
+<WRES> <PPOS> to <RES> or <MRES>
+<WRES> <PPOS> changed to <MRES>
+<WRES> <PPOS> and <POS> with <MRES>
+<WRES> <POS> and <PPOS> with <MRES>
+<WRES> <PPOS> (<MRES>
+<WRES> --> <MRES> substitution at position <PPOS>
+<PPOS>-<WRES>----<MRES>
+<PPOS>, substituting <WRES> for <MRES>
+<PPOS>, from <WRES> to <MRES>
+<WRES> for <MRES> at codon <PPOS>
+<PPOS>(hc<POS>)<WRES>----<MRES>
+<PPOS>(fg<POS>) <WRES> replaced by <MRES>
+<PPOS>(f<POS>)<WRES>----<MRES>
+<PPOS>(f<POS>) <WRES>----<MRES>
+<PPOS>(e<POS>)<WRES>-><MRES>
+<PPOS>(<WRES>--><MRES>
+<PPOS> is <WRES> rather than <MRES>
+<PPOS> <WRES> is replaced by <MRES>
+<PPOS> (fg <POS>) <WRES> replaced by <MRES>
+<PPOS> (f<POS>) <WRES> replaced by <MRES>
+<PPOS> (ef<POS>) <WRES> replaced by <MRES>
+<PPOS> (a<POS>) <WRES>----<MRES>
+<PPOS> (<WRES>-to-<MRES>
+<WRES>]<PPOS>-<MRES>
+<WRES><PPOS>-><MRES>
+<WRES><PPOS>, was mutated to <MRES>
+<WRES><PPOS>, to <RES> or <MRES>
+<WRES><PPOS>, <RES><POS> or both were replaced with <MRES>
+<WRES><PPOS> or both were replaced with <MRES>
+<WRES><PPOS>(e<POS>)--><MRES>
+<WRES><PPOS> with an <RES> or <MRES>
+<WRES><PPOS> was replaced with <RES>, <MRES>
+<WRES><PPOS> was replaced with <RES>, <RES>, <MRES>
+<WRES><PPOS> was replaced with <RES>, <RES>, <RES>, <MRES>
+<WRES><PPOS> was replaced with <RES>, <RES>, <RES>, <RES> and <MRES>
+<WRES><PPOS> was replaced with <RES> or <MRES>
+<WRES><PPOS> was replaced with <RES> and <MRES>
+<WRES><PPOS> was replaced by <RES> and <MRES>
+<WRES><PPOS> was mutated to <RES>, <MRES>
+<WRES><PPOS> was mutated to <RES>, <RES>, <MRES>
+<WRES><PPOS> was mutated to <RES>, <RES>, <RES>, and <MRES>
+<WRES><PPOS> was exchanged for a <MRES>
+<WRES><PPOS> was changed to <MRES>
+<WRES><PPOS> was changed to <RES>, <MRES>
+<WRES><PPOS> was changed to <RES>, <RES> or <MRES>
+<WRES><PPOS> was changed to <RES> and <MRES>
+<WRES><PPOS> to <RES>, <RES>, <RES>, or <MRES>
+<WRES><PPOS> to <RES>, <RES>, <RES> and <MRES>
+<WRES><PPOS> to <RES> and to <MRES>
+<WRES><PPOS> substituted by <MRES>
+<WRES><PPOS> residue with <RES> or <MRES>
+<WRES><PPOS> residue to <MRES>
+<WRES><PPOS> replacement by <MRES>
+<WRES><PPOS> or its substitution by <MRES>
+<WRES><PPOS> or <RES><POS> to either <MRES>
+<WRES><PPOS> or <RES><POS> to either <RES> or <MRES>
+<WRES><PPOS> to either <MRES>
+<WRES><PPOS> is converted to a <MRES>
+<WRES><PPOS> into <RES> and <MRES>
+<WRES><PPOS> can be replaced with <MRES>
+<WRES><PPOS> by <RES>, <MRES>
+<WRES><PPOS> by <RES>, <RES>, and <MRES>
+<WRES><PPOS> and <RES><POS> were substituted by <MRES>
+<WRES><PPOS> were substituted by <MRES>
+<WRES><PPOS> and <RES><POS> were replaced with <MRES>
+<WRES><PPOS> were replaced with <MRES>
+<WRES><PPOS> and <RES><POS> were both changed to <MRES>
+<WRES><PPOS> were both changed to <MRES>
+<WRES><PPOS> -> <MRES>
+<WRES><PPOS> - <MRES>
+<WRES>-to-<MRES> substitution at amino acid residue <PPOS>
+<WRES>-to-<MRES> mutation at the <PPOS>
+<WRES>-to-<MRES> change at residue <PPOS>
+<WRES>-to-<MRES> at residue <PPOS>
+<WRES>-for-<MRES> at position <PPOS>
+<WRES>-e<PPOS> by <MRES>
+<WRES>-<PPOS>---><MRES>
+<WRES>-<PPOS> with <RES>, <RES>, and <MRES>
+<WRES>-<PPOS> with <RES>, <RES>, <MRES>
+<WRES>-<PPOS> with <RES>, <RES>, <RES>, <MRES>
+<WRES>-<PPOS> with <RES>, <RES>, <RES>, <RES>, and <MRES>
+<WRES>-<PPOS> with <RES>, <RES> or <MRES>
+<WRES>-<PPOS> was replaced by a <MRES>
+<WRES>-<PPOS> was replaced by <RES> and <MRES>
+<WRES>-<PPOS> was mutated to either a <MRES>
+<WRES>-<PPOS> was mutated to either a <RES> or an <MRES>
+<WRES>-<PPOS> to a codon for <MRES>
+<WRES>-<PPOS> to a <RES> or <MRES>
+<WRES>-<PPOS> to <RES>, <RES>, or <MRES>
+<WRES>-<PPOS> to <RES>, <RES>, <MRES>
+<WRES>-<PPOS> to <RES>, <RES>, <RES>, <MRES>
+<WRES>-<PPOS> to <RES>, <RES>, <RES>, <RES>, or <MRES>
+<WRES>-<PPOS> residue with <MRES>
+<WRES>-<PPOS> or <RES>-<POS> to <MRES>
+<WRES>-<PPOS> or <RES>-<POS> is replaced by <MRES>
+<WRES>-<PPOS> is replaced by a <MRES>
+<WRES>-<PPOS> is mutated to <MRES>
+<WRES>-<PPOS> is mutated to <RES> or <MRES>
+<WRES>-<PPOS> has been changed to <MRES>
+<WRES>-<PPOS> had been replaced by <MRES>
+<WRES>-<PPOS> for a <MRES>
+<WRES>-<PPOS> changed to <MRES>
+<WRES>-<PPOS> by either <RES>, <MRES>
+<WRES>-<PPOS> by either <RES>, <RES>, or <MRES>
+<WRES>-<PPOS> by <RES>, <MRES>
+<WRES>-<PPOS> by <RES>, <RES>, and <MRES>
+<WRES>-<PPOS> by <RES>, <RES>, <MRES>
+<WRES>-<PPOS> by <RES>, <RES>, <RES>, and <MRES>
+<WRES>-<PPOS> and <RES>-<POS> to <RES> and <MRES>
+<WRES>-<PPOS> and <RES>-<POS> residues to <MRES>
+<WRES>-<PPOS> residues to <MRES>
+<WRES>-<PPOS> and <RES>-<POS> are replaced by <MRES>
+<WRES>-<PPOS> are replaced by <MRES>
+<WRES>-<PPOS> alpha----<MRES>
+<WRES>--><MRES>) in codon <PPOS>
+<WRES>--><MRES> substitution in position <PPOS>
+<WRES>--><MRES> substitution at sites <PPOS>
+<WRES>--><MRES> substitution at sites <POS> and <PPOS>
+<WRES>--><MRES> substitution at codon <PPOS>
+<WRES>--><MRES> substitution at amino acid position <PPOS>
+<WRES>--><MRES> replacement at position <PPOS>
+<WRES>--><MRES> mutation at residue <PPOS>
+<WRES>--><MRES> change at position <PPOS>
+<WRES>--><MRES> at residue <PPOS>
+<WRES>--><MRES> at beta<PPOS>
+<WRES>--><MRES> amino acid substitution in the s<PPOS>
+<WRES>--><MRES> <PPOS>
+<WRES>----<MRES> substitution at the <PPOS>
+<WRES>----<MRES> replacement at position gamma <PPOS>
+<WRES>----<MRES> replacement at position <PPOS>
+<WRES>----<MRES> exchange at position <PPOS>
+<MRES>, <RES>, or <RES> for <WRES>-<PPOS>
+<MRES>, or <RES> for <WRES>-<PPOS>
+<WRES>)<PPOS>(<MRES>
+<WRES>)<PPOS> <MRES>
+<WRES>(<PPOS>)]<MRES>
+<WRES>(<PPOS>)]-<MRES>
+<WRES>(<PPOS>) to a <MRES>
+<WRES>(<PPOS>) to <RES>, <MRES>
+<WRES>(<PPOS>) to <RES>, <RES>, <MRES>
+<WRES>(<PPOS>) to <RES>, <RES>, <RES>, and <MRES>
+<WRES>(<PPOS>) or <RES>(<POS>) by <MRES>
+<WRES>(<PPOS>) is replaced by <MRES>
+<WRES>(<PPOS>) by a <MRES>
+<WRES>(<PPOS>) and <RES>(<POS>)) to <MRES>
+<WRES>(<PPOS>)) to <MRES>
+<WRES>(<PPOS>) <MRES>
+<WRES> with a <MRES> at position <PPOS>
+<WRES> with <MRES> at position <POS> or <PPOS>
+<MRES> was substituted for <WRES> at position <PPOS>
+<WRES> was replaced by <MRES> at position <PPOS>
+<MRES> to replace <WRES><PPOS>
+<WRES> to an <MRES> at position <PPOS>
+<WRES> to <MRES>) residue <PPOS>
+<WRES> to <MRES>) at residue <PPOS>
+<WRES> to <MRES> substitution in position <PPOS>
+<WRES> to <MRES> substitution in aa<PPOS>
+<WRES> to <MRES> substitution at positions <PPOS>
+<WRES> to <MRES> substitution at positions <POS> and <PPOS>
+<WRES> to <MRES> substitution (r<PPOS>
+<WRES> to <MRES> missense mutation at position <PPOS>
+<WRES> to <MRES> exchange at position <PPOS>
+<WRES> to <MRES> at aa <PPOS>
+<WRES> to <MRES> (t<PPOS>
+<WRES> to <MRES> (m<PPOS>
+<WRES> to <MRES> (l<PPOS>
+<WRES> to <MRES> (g<PPOS>
+<MRES> substitutions of <WRES> <PPOS>
+<MRES> substitutions of <RES> <POS>, <WRES> <PPOS>
+<MRES> substitutions of <RES> <POS>, <RES> <POS>, and <WRES> <PPOS>
+<MRES> substitutions for <WRES><PPOS>
+<MRES> substitutions for <RES><POS> and <WRES><PPOS>
+<MRES> substitutions at <WRES><PPOS>
+<MRES> substitutions at <RES><POS>, <WRES><PPOS>
+<MRES> substitutions at <RES><POS>, <RES><POS>, <WRES><PPOS>
+<MRES> substitutions at <RES><POS>, <RES><POS>, <RES><POS>, and <WRES><PPOS>
+<MRES> substitutions at <WRES>-<PPOS>
+<MRES> substitutions at <RES>-<POS> and <WRES>-<PPOS>
+<MRES> substitutions at <WRES> residues <PPOS>
+<MRES> substitutions at <WRES> residues <POS> and <PPOS>
+<MRES> substitution for <WRES> at residue <PPOS>
+<MRES> substitution for <WRES> at position <PPOS>
+<MRES> substitution at <RES>-<POS> or <WRES>-<PPOS>
+<MRES> substituted for <WRES><PPOS>
+<MRES> substituted for <WRES>(<PPOS>
+<MRES> substituted for <WRES> in position <PPOS>
+<WRES> residue with <MRES> at position <PPOS>
+<WRES> residue with <MRES> (<RES><PPOS>
+<MRES> residue instead of <WRES> at position <PPOS>
+<MRES> residue in place of <WRES> <PPOS>
+<MRES> residue for <WRES><PPOS>
+<MRES> residue for <WRES>-<PPOS>
+<MRES> residue for <WRES> at position <PPOS>
+<MRES> residue for <WRES> <PPOS>
+<WRES> residue at position <PPOS> to a <MRES>
+<MRES> residue at position <PPOS> rather than <WRES>
+<WRES> residue at position <PPOS> has been replaced by <MRES>
+<WRES> residue at position <PPOS> by a <MRES>
+<WRES> residue <PPOS> with <MRES>
+<WRES> residue <PPOS> to <MRES>
+<MRES> replacing <WRES><PPOS>
+<MRES> replacing <WRES>-<PPOS>
+<MRES> replacing <WRES> at position <PPOS>
+<MRES> replacing <WRES> as residue <PPOS>
+<MRES> replaces <WRES> at position <PPOS>
+<MRES> replacements of <WRES><PPOS> and <RES><POS>
+<MRES> replacements of <RES><POS> and <WRES><PPOS>
+<MRES> replacement of <WRES><PPOS>
+<MRES> rather than the normal <WRES> at amino acid position <PPOS>
+<MRES> rather than <WRES> in position <PPOS>
+<MRES> or <RES> for <WRES> at amino acid <PPOS>
+<MRES> or <RES> for <WRES> <PPOS>
+<MRES> mutants of <WRES><PPOS>
+<MRES> mutants of <RES><POS> and <WRES><PPOS>
+<MRES> is substituted for a <WRES> residue at position <PPOS>
+<MRES> is substituted for <WRES> at position <PPOS>
+<MRES> instead of <WRES><PPOS>
+<MRES> instead of <WRES> in position <PPOS>
+<MRES> instead of <WRES> at residue <PPOS>
+<MRES> instead of <WRES> at amino acid position <PPOS>
+<WRES> in the normal enzyme to <MRES> in the variant enzyme at the <PPOS>
+<WRES> in position <PPOS> with <MRES>
+<WRES> in position <PPOS> was replaced by <MRES>
+<MRES> in place of the <WRES> residue <RES><PPOS>
+<MRES> in place of <WRES> in position <PPOS>
+<MRES> in place of <WRES> at amino acid <PPOS>
+<MRES> for the <WRES> residue at position <PPOS>
+<MRES> for the <WRES> at position <PPOS>
+<MRES> for a <WRES> residue at position <PPOS>
+<MRES> for a <WRES> at codon <PPOS>
+<MRES> for <RES>-<POS>, <WRES>-<PPOS>
+<MRES> for <RES>-<POS>, <RES>-<POS>, and <WRES>-<PPOS>
+<MRES> for <WRES> substitution in position <PPOS>
+<MRES> for <WRES> substitution at residue <PPOS>
+<MRES> for <WRES> substitution at position <POS> or <PPOS>
+<MRES> for <WRES> replacement at residue <PPOS>
+<MRES> for <WRES> mutation at position <PPOS>
+<MRES> for <WRES> exchange at position <PPOS>
+<MRES> for <WRES> change at residue <PPOS>
+<MRES> for <WRES> at the <PPOS>
+<MRES> for <WRES> at position a<PPOS>
+<MRES> for <WRES> at p<PPOS>
+<MRES> for <WRES> at b<PPOS>
+<MRES> for <WRES> at alpha<POS>-<PPOS>
+<MRES> for <WRES> at -<PPOS>
+<MRES> for <WRES> alpha <POS>(i) <PPOS>
+<WRES> by an <MRES> at position <PPOS>
+<WRES> by <MRES>-<PPOS>
+<WRES> by <MRES> at the <PPOS>
+<WRES> by <MRES> at position -<PPOS>
+<WRES> by <MRES> at amino acid residue <PPOS>
+<WRES> by <MRES> <PPOS>
+<WRES> by <PPOS>oh-<MRES>
+<WRES> at residue <PPOS> by a <MRES>
+<WRES> at position <PPOS> was replaced by a <MRES>
+<WRES> at position <PPOS> was changed to an <MRES>
+<WRES> at position <PPOS> was changed to <MRES>
+<WRES> at position <PPOS> substituted by <MRES>
+<WRES> at position <PPOS> is replaced by a <MRES>
+<WRES> at position <PPOS> instead of a <MRES>
+<WRES> at position <PPOS> changed to <MRES>
+<WRES> at codon <PPOS> to a <MRES>
+<MRES> and <RES> mutants of <WRES><PPOS>
+<WRES> <PPOS>, to <MRES>
+<WRES> <PPOS>, a <MRES>
+<WRES> <PPOS>, <RES> <POS>, and <RES> <POS> with <MRES>
+<WRES> <PPOS>, and <RES> <POS> with <MRES>
+<WRES> <PPOS> with an <MRES>
+<WRES> <PPOS> with <RES>, <MRES>
+<WRES> <PPOS> with <RES>, <RES>, or <MRES>
+<WRES> <PPOS> with <RES>, <RES>, and <MRES>
+<WRES> <PPOS> was substituted with <MRES>
+<WRES> <PPOS> was replaced by an <MRES>
+<WRES> <PPOS> was replaced by <RES> or <MRES>
+<WRES> <PPOS> was converted to <MRES>
+<WRES> <PPOS> is substituted with <MRES>
+<WRES> <PPOS> is replaced with <MRES>
+<WRES> <PPOS> is replaced by an <MRES>
+<WRES> <PPOS> is mutated to <MRES>
+<WRES> <PPOS> into <RES> and <MRES>
+<WRES> <PPOS> has been changed to <MRES>
+<WRES> <PPOS> by <RES>, <MRES>
+<WRES> <PPOS> by <RES>, <RES>, <MRES>
+<WRES> <PPOS> by <RES>, <RES>, <RES>, <MRES>
+<WRES> <PPOS> by <RES>, <RES>, <RES>, <RES>, <MRES>
+<WRES> <PPOS> by <RES>, <RES>, <RES>, <RES>, <RES>, <MRES>
+<WRES> <PPOS> by <RES>, <RES>, <RES>, <RES>, <RES>, <RES>, or <MRES>
+<WRES> <PPOS> --><MRES>
+<WRES> --> <MRES> at position <PPOS>
+<PPOS><WRES>-(<MRES>
+<PPOS><WRES> with <MRES>
+<PPOS>-<WRES> by <MRES>
+<MRES> for <WRES> at amino acid position <PPOS>
+<PPOS>, where an <MRES> was substituted for <WRES>
+<PPOS>, substituting <MRES> (<RES>) for <WRES>
+<WRES> in position <PPOS> was replaced by a <MRES>
+<PPOS>) <WRES> is replaced by <MRES>
+<PPOS>(hc<POS>)<WRES> replaced by <MRES>
+<PPOS>(h<POS>) <WRES>----<MRES>
+<PPOS>(h<POS>) <WRES> > <MRES>
+<PPOS>(g<POS>)<WRES> --> <MRES>
+<PPOS>(g<POS>) <WRES>----<MRES>
+<PPOS>(g<POS>) <WRES> replaced by <MRES>
+<PPOS>(f<POS>) <WRES>--><MRES>
+<PPOS>(ef<POS>)<WRES>----<MRES>
+<PPOS>(ce<POS>) <WRES>----<MRES>
+<PPOS>(cd<POS>)<WRES>--><MRES>
+<PPOS>(cd<POS>)<WRES> replaced by <MRES>
+<PPOS>(cd<POS>) <WRES> --> <MRES>
+<PPOS>(c<POS>) <WRES>--><MRES>
+<PPOS>(b<POS>)<WRES> --> <MRES>
+<PPOS>(a<POS>) <WRES>----<MRES>
+<PPOS> where <WRES> is replaced by <MRES>
+<WRES> <PPOS> substituted by <MRES>
+<PPOS> mutation (<MRES> for <WRES>
+<PPOS> changing <WRES> to <MRES>
+<PPOS> <WRES>---<MRES>
+<PPOS> <WRES> residues were changed to <MRES>
+<PPOS> <WRES> residues to <MRES>
+<PPOS> <WRES> residue by <MRES>
+<PPOS> <MRES> for <WRES>
+<PPOS> <WRES> -- <MRES>
+<PPOS>(f<POS>)<WRES> replaced by <MRES>
+<PPOS> (hc<POS>) <WRES> replaced by <MRES>
+<PPOS> (ce<POS>) <WRES>----<MRES>
+<PPOS> (hc<POS>) <WRES>--><MRES>
+<PPOS> (h <POS>) <WRES>----<MRES>
+<PPOS> (h <POS>) <WRES> replaced by <MRES>
+<PPOS> (gh<POS>) <WRES>--><MRES>
+<PPOS> (g<POS>) <WRES>--<MRES>
+<PPOS> (g <POS>) <WRES>----<MRES>
+<PPOS> (fg<POS>) <WRES>----<MRES>
+<PPOS> (ef<POS>)<WRES>----<MRES>
+<PPOS> (e<POS>) <WRES>--><MRES>
+<PPOS> (c<POS>) <WRES>----<MRES>
+<PPOS> (b<POS>) <WRES> substituting for <MRES>
+<PPOS> (a<POS>)<WRES>----<MRES>
+<PPOS> (a<POS>) <WRES>--><MRES>
+<PPOS> (<WRES>--><RES>, <MRES>)
+<PPOS> (<MRES> for <WRES>)
+<PPOS> (<WRES> > <MRES>
+<WRES><PPOS>, and <RES><POS>, to <MRES>
+<WRES><PPOS>, <RES><POS>, and <RES><POS>, to <MRES>
+<WRES><PPOS>, <RES><POS>, <RES><POS>, and <RES><POS>, to <MRES>
