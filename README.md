@@ -7,7 +7,7 @@ The following files create the (synthesized) datasets based on the [gene mutatio
 | --------- | ---------- | ----------- |
 | data_maker_poc.py | Proof of Concept | - |
 | data_maker_pos.py | Mutation Position | subset of mutation positions | 
-| data_maker_pro.py | Amino Acid Forms | 2 out of the three possible forms |
+| data_maker_pro.py | Amino Acid Forms | 2 out of the 3 possible forms |
 | data_maker_aminoacid.py | Amino Acid Types | a subset of amino acids |
 | data_maker_patterns.py | Description Patterns | a subset of the description patterns |
 
