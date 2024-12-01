@@ -1,0 +1,6 @@
+transformers==4.37.1
+datasets==2.15.0
+evaluate==0.4.1
+cer==1.2.0
+accelerate==0.26.1
+wandb==0.16.4
