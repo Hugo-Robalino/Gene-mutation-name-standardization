@@ -1,7 +1,7 @@
 # Gene-mutation-name-standardization
 The main goal of this project is to translate from gene mutation description in natural language into the HGVS standardized nomenclature. The scope of the project was focused on aminoacid substitutions. 
 
-The following files create the (synthesized) datasets based on the [gene mutation patterns](https://github.com/Erechtheus/GenerateMutationData/blob/main/data/mutationfinder.txt) for the learning step by the model based on [BioBART](https://github.com/GanjinZero/BioBART). The files were created to evaluate the model’s functionality when specific parts of the training data are masked.
+The following files create the (synthesized) datasets based on [gene mutation patterns](https://github.com/Erechtheus/GenerateMutationData/blob/main/data/mutationfinder.txt) for the learning step by the model based on [BioBART](https://github.com/GanjinZero/BioBART). The files were created to evaluate the model’s functionality when specific parts of the training data are masked.
 
 | File Name | Experiment | Mask |
 | --------- | ---------- | ----------- |
@@ -12,3 +12,7 @@ The following files create the (synthesized) datasets based on the [gene mutatio
 | data_maker_patterns.py | Description Patterns | a subset of the description patterns |
 
 The usage of the above files require arguments described at the beginning of the files.
+
+After training and testing the model, it was found that the model has more difficulties learning in two cases as seen in test_charaacTER.png file:
+1. When it is only trained on the 3 letter form of the amino acid
+2. When it is only trained on a subset of amino acids
